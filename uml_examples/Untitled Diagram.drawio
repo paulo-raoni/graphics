@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T18:49:02.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.0" etag="-PX_zZu63FWtusAsCiZW" type="github"><diagram id="F9H25lEwjcICliMyL7Br">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-14T18:52:45.503Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="0C_RmtMTuhD5gvm2Fh_q" version="20.3.0" type="github">
+  <diagram id="F9H25lEwjcICliMyL7Br" name="Page-1">
+    <mxGraphModel dx="1038" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dt9qGgU_YoWkmSZqFeFS-1" value="SQL&lt;br style=&quot;font-size: 24px;&quot;&gt;- relacional&lt;br style=&quot;font-size: 24px;&quot;&gt;- verticalmente escalável (em número de linhas)" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="350" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="dt9qGgU_YoWkmSZqFeFS-2" value="NoSQL&lt;br style=&quot;font-size: 24px;&quot;&gt;- não relacional&lt;br style=&quot;font-size: 24px;&quot;&gt;- horizontalmente escalável (cresce em número de colunas e subestruturas como em um JSON)" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="410" y="10" width="350" height="350" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
